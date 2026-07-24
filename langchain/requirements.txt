@@ -24,6 +24,9 @@ streamlit
 # Environment Variable Management
 python-dotenv
 
+# Data Validation
+pydantic[email]
+
 # Machine Learning Utilities
 numpy
 scikit-learn
